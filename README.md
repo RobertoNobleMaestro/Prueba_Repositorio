@@ -33,4 +33,4 @@ d´pasojd´pasjd´jdasjdóiasjd´sjdásjdasidásidjasóidjas-ldjas´jdasodjasoda
 ```
 [Google](https://www.google.es)
 
-[Foto](https://github.com/RobertoNobleMaestro/Prueba_Repositorio/blob/main/HugoAlda.jpg "imagen de feo")
+![Foto](https://github.com/RobertoNobleMaestro/Prueba_Repositorio/blob/main/HugoAlda.jpg "imagen de feo")
