@@ -7,6 +7,6 @@
 
 Primer repositorio GitHub
 
-* Elemento
+* Elemento;
 + Elemento 1
 + Elemento 2
