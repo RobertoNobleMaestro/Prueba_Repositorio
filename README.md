@@ -34,3 +34,10 @@ d´pasojd´pasjd´jdasjdóiasjd´sjdásjdasidásidjasóidjas-ldjas´jdasodjasoda
 [Google](https://www.google.es)
 
 ![Foto](https://github.com/RobertoNobleMaestro/Prueba_Repositorio/blob/main/HugoAlda.jpg "imagen de feo")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:----------:|---------:|
+|Roberto | Noble | Maestro |
+| Hugo | Alda | Cardenas |
+|col 3 | está alineada | derecha|
+|col 2 | está alineada | centro |
