@@ -1,6 +1,7 @@
 # Prueba_Repositorio
 ## Prueba_Repositorio
-*Hola*
+*Hola* _**cursiva negrita**_
+
 **Adios**
 
 Primer repositorio GitHub
