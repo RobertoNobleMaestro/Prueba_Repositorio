@@ -41,3 +41,5 @@ d´pasojd´pasjd´jdasjdóiasjd´sjdásjdasidásidjasóidjas-ldjas´jdasodjasoda
 | Hugo | Alda | Cardenas |
 |col 3 | está alineada | derecha|
 |col 2 | está alineada | centro |
+
++gfhgwfth
